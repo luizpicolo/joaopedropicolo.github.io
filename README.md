@@ -5,3 +5,12 @@ Sabe aquele momento em que você pode estimular alguém a aprender algo novo? **
 Acesse a primeira página dele [https://joaopedropicolo.github.io](https://joaopedropicolo.github.io)
 
 Abraços...
+
+
+# My first time using github
+
+Do you know that moment when you can encourage someone to learn something new? **So, this repository was created for this purpose.** Through it i'm intend to teach my son, who is now thirteen years old, to understand what it is and how to contribute to open projects. Many may think that it is just a means to earn HacktoberFest items. **HOWEVER, IT IS NOT.** Larger contributions start with small gestures, and I feel that this could be the cumin for a big event.
+
+Access his first page [https://joaopedropicolo.github.io](https://joaopedropicolo.github.io)
+
+Hugs...
